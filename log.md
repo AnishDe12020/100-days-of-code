@@ -13,3 +13,13 @@
 **Today's Progress**: More work on my side project, added [TwNFT](https://twnft.vercel.app/) to my [portfolio site](https://anishde.dev/), learned some of the basics of the rust and worked on the guessing game project (from the rust book).
 
 **Thoughts:** Coded a lot today and tired!
+
+### Day 2: 23rd February, 2022, Monday
+
+**Today's Progress**: Did a lot of work on my side project and worked on some miscellaneous things.
+
+**Thoughts:** Been a long day and a quite productive one'
+
+**Todoist:** 
+
+![image](https://user-images.githubusercontent.com/63192115/155370619-9f92adb7-ef18-47e2-8db5-90e98b36881a.png)
