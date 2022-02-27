@@ -35,3 +35,11 @@
 **Today's Progress**: More work on my side project again, one feature, landing page, deploying to production, readme and blog post left (oh and branding)
 
 **Thoughts:** More nervous 😞
+
+1 day break
+
+### Day 5: 26th February, 2022, Sunday
+
+**Today's Progress**: Worked on my side project for the whole day
+
+**Thoughts:** Tomorrow is launch day 🎉 (but still a lot of work left so quite nervous)
