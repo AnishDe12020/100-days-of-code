@@ -29,3 +29,9 @@
 **Today's Progress**: More work on my side project, still a lot left.
 
 **Thoughts:** Got to finish this by the 28th and now I am getting a little nervous. Also, have another project idea in mind (ok 2 more) 😓 :)
+
+### Day 4: 25th February, 2022, Friday
+
+**Today's Progress**: More work on my side project again, one feature, landing page, deploying to production, readme and blog post left (oh and branding)
+
+**Thoughts:** More nervous 😞
