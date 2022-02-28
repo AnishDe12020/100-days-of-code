@@ -38,8 +38,15 @@
 
 1 day break
 
-### Day 5: 26th February, 2022, Sunday
+### Day 5: 27th February, 2022, Sunday
 
 **Today's Progress**: Worked on my side project for the whole day
 
 **Thoughts:** Tomorrow is launch day 🎉 (but still a lot of work left so quite nervous)
+
+### Day 6: 28th February, 2022, Monday
+
+**Today's Progress**: Done with side project!
+
+**Thoughts:** Been a long day, still need to finish up the article for the Hashnode x Netlify Hackathon, will do it by 23:59 pm UTC, February 28th
+
