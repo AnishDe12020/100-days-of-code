@@ -50,3 +50,9 @@
 
 **Thoughts:** Been a long day, still need to finish up the article for the Hashnode x Netlify Hackathon, will do it by 23:59 pm UTC, February 28th
 
+### Day 7: 1st March, 2022, Tuesday
+
+**Today's Progress**: Blogged my side project and submitted it to the Hashnode x Netlify hackathon. Also learned the basics of go and got 2 cli ideas in mind.
+
+**Thoughts:** Enjoyed the day, chilled a bit, school starts tomorrow.
+
