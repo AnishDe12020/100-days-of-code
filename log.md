@@ -56,3 +56,11 @@
 
 **Thoughts:** Enjoyed the day, chilled a bit, school starts tomorrow.
 
+### Day 8: 2st March, 2022, Wednesday
+
+**Today's Progress**: Wrote a blog on making an accessible breadcrumb navigation with NextJS and TailwindCSS today.
+
+**Link to work**: https://blog.anishde.dev/making-an-accessible-breadcrumb-navigation-using-tailwindcss-and-nextjs
+
+**Thoughts:** Blog didn't do that well. Going to explore hasura tomorrow
+
