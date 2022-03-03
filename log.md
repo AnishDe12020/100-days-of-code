@@ -56,7 +56,7 @@
 
 **Thoughts:** Enjoyed the day, chilled a bit, school starts tomorrow.
 
-### Day 8: 2st March, 2022, Wednesday
+### Day 8: 2nd March, 2022, Wednesday
 
 **Today's Progress**: Wrote a blog on making an accessible breadcrumb navigation with NextJS and TailwindCSS today.
 
@@ -64,3 +64,8 @@
 
 **Thoughts:** Blog didn't do that well. Going to explore hasura tomorrow
 
+### Day 9: 3rd March, 2022, Thursday
+
+**Today's Progress**: Tried writing a CLI with go, thinks errored out and I gave up. Tried recreating the same in rust and couldn't get things to work. Then initialized a new NextJS project for a new side project. Also explored Hasura
+
+**Thoughts:** Did a lot of things today. Hope to finish that cli tool some day or the other using go or rust
