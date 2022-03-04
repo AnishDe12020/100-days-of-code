@@ -69,3 +69,9 @@
 **Today's Progress**: Tried writing a CLI with go, thinks errored out and I gave up. Tried recreating the same in rust and couldn't get things to work. Then initialized a new NextJS project for a new side project. Also explored Hasura
 
 **Thoughts:** Did a lot of things today. Hope to finish that cli tool some day or the other using go or rust
+
+### Day 10: 4th March, 2022, Friday
+
+**Today's Progress**: Finished [a pointer.gg tutorial on building a web3 forum](https://www.pointer.gg/tutorials/create-a-web3-forum-with-polygon/), explored more of Hasura, finished 2 lessons in the [Apollo Odyssey](https://odyssey.apollographql.com/) track (3 to go). 
+
+**Thoughts:** GraphQL is awesome! Plan on working on my side project tomorrow.
