@@ -75,3 +75,10 @@
 **Today's Progress**: Finished [a pointer.gg tutorial on building a web3 forum](https://www.pointer.gg/tutorials/create-a-web3-forum-with-polygon/), explored more of Hasura, finished 2 lessons in the [Apollo Odyssey](https://odyssey.apollographql.com/) track (3 to go). 
 
 **Thoughts:** GraphQL is awesome! Plan on working on my side project tomorrow.
+
+### Day 11: 5th March, 2022, Saturday
+
+**Today's Progress**: Finished 3 more lessons in [Apollo Odyssey](https://odyssey.apollographql.com/) and completed the certification. Also, worked a little bit on my side project, started writing a blog post and explored some new libraries.
+
+**Thoughts:** Gotta work on side project tomorrow. Plan on finishing up with authentication and starting with the main page.
+
