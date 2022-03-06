@@ -82,3 +82,9 @@
 
 **Thoughts:** Gotta work on side project tomorrow. Plan on finishing up with authentication and starting with the main page.
 
+### Day 12: 6th March, 2022, Sunday
+
+**Today's Progress**: Wrote a new [blog post](https://blog.anishde.dev/powerful-code-blocks-with-code-hike-and-mdx), worked on my side project
+
+**Thoughts:** Not much progress today on the side proect. Got a CSS art planned out.
+
