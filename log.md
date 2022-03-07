@@ -88,3 +88,8 @@
 
 **Thoughts:** Not much progress today on the side proect. Got a CSS art planned out.
 
+### Day 13: 7th March, 2022, Monday
+
+**Today's Progress**: Worked a bit on a CSS art but it is on hold now. Made some progress on my side project
+
+**Thoughts:** Still fighting bugs on my side project, development is never easy!
