@@ -93,3 +93,11 @@
 **Today's Progress**: Worked a bit on a CSS art but it is on hold now. Made some progress on my side project
 
 **Thoughts:** Still fighting bugs on my side project, development is never easy!
+
+### Day 14: 8th March, 2022, Tuesday
+
+**Today's Progress**: Finished authentication on my side project, made 4 Slapdash commands to search TailwindCSS, Next.js, Chakra UI and Clerk documentation.
+
+**Thoughts:** Had a productive day, aiming to finishing up the database shema for my side project and making a few more Slapdash commands tomorrow
+
+**Link to work**: https://github.com/AnishDe12020/slapdash_commands
