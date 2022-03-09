@@ -101,3 +101,9 @@
 **Thoughts:** Had a productive day, aiming to finishing up the database shema for my side project and making a few more Slapdash commands tomorrow
 
 **Link to work**: https://github.com/AnishDe12020/slapdash_commands
+
+### Day 15: 9th March, 2022, Wednesday
+
+**Today's Progress**: Renamed slapdash commands to [slapcommands](https://github.com/AnishDe12020/slapcommands), refactored the repository and split logic and data into smaller files. Also made cloud commands for all local docsearch commands I had made yesterday. Also, implemented syncing clerk users with my Hasura backend on my side project.
+
+**Thoughts:** Not much progress on side project but still a lot of progress. Plan on working a lot on side project tomorrow and making a script and a github action to update slapcommands docsearch data
