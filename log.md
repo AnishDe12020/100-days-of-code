@@ -114,3 +114,9 @@
 
 **Thoughts:** Spent about an hour on animating a small button :(, gotta be more productive
 
+### Day 17: 11th March, 2022, Friday
+
+**Today's Progress**: Finished the profile page on my side project
+
+**Thoughts:** Very little progress today :(
+
