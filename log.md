@@ -116,7 +116,7 @@
 
 ### Day 17: 11th March, 2022, Friday
 
-**Today's Progress**: Finished the profile page on my side project
+**Today's Progress**: Finished the profile page on my side project. Added a new docsearch command for the Slapdash platform docs and a new util to copy the unix timstamp as well 
 
-**Thoughts:** Very little progress today :(
+**Thoughts:** Very little progress on side project today :(
 
