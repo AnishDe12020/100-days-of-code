@@ -120,3 +120,10 @@
 
 **Thoughts:** Very little progress on side project today :(
 
+
+### Day 18: 12th March, 2022, Saturday
+
+**Today's Progress**: Made some progress on my side project's dashboard page, created a modal component
+
+**Thoughts:** Not a lot of progress today as well 😔
+
