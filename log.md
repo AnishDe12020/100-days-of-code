@@ -127,3 +127,9 @@
 
 **Thoughts:** Not a lot of progress today as well 😔
 
+### Day 19: 13th March, 2022, Sunday
+
+**Today's Progress**: Created a bottom sheet component which is dynamically shown on mobile devices instead of a dialog
+
+**Thoughts:** Spent a lot of time trying to make the Modal component as re-usable as possible. Gotta work on core functionality now.
+
