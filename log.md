@@ -133,3 +133,9 @@
 
 **Thoughts:** Spent a lot of time trying to make the Modal component as re-usable as possible. Gotta work on core functionality now.
 
+### Day 20: 14th March, 2022, Monday
+
+**Today's Progress**: Added a lot to the `FormGroup` component in my side project, added 2 new docsearch commands in Slapcommands, migrated the cloud infrastructure over to Vercel.
+
+**Thoughts:** Still a lot of work to do on side project, plan on completing a pr open to add 4 docsearch Slapcommands to Slapdash.
+
