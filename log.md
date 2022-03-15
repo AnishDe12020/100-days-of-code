@@ -139,3 +139,10 @@
 
 **Thoughts:** Still a lot of work to do on side project, plan on completing a pr open to add 4 docsearch Slapcommands to Slapdash.
 
+### Day 21: 15th March, 2022, Tuesday
+
+**Today's Progress**: 4 new commands to the [official Slapdash developer page](https://slapdash.com/developers) woohoo!!! Some progress on side project.
+
+**Thoughts:** Had been quite a good day as my pr got merged adding 4 new docsearch cloud commands to Slapdash.
+
+
