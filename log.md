@@ -145,4 +145,8 @@
 
 **Thoughts:** Had been quite a good day as my pr got merged adding 4 new docsearch cloud commands to Slapdash.
 
+### Day 22: 16th March, 2022, Wednesday
 
+**Today's Progress**: Fixed a HUGE bug with my side project (ok, it was a silly mistake I wasted 2 hours on). 
+
+**Thoughts:** I seriously need to work on some proper features now, that bug literally wasted a day :(
