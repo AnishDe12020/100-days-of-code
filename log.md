@@ -150,3 +150,9 @@
 **Today's Progress**: Fixed a HUGE bug with my side project (ok, it was a silly mistake I wasted 2 hours on). 
 
 **Thoughts:** I seriously need to work on some proper features now, that bug literally wasted a day :(
+
+### Day 23: 17th March, 2022, Thursday
+
+**Today's Progress**: Made some progress on my side projects, explored a lot more new stuff (tools, platforms, etc.). Also opened a pr to [React Next.js Snippets](https://github.com/avneesh0612/React-Next.js-snippets) adding vim support
+
+**Thoughts:** Didn't do much work but enjoyed the day :)
