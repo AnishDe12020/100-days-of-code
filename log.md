@@ -156,3 +156,9 @@
 **Today's Progress**: Made some progress on my side projects, explored a lot more new stuff (tools, platforms, etc.). Also opened a pr to [React Next.js Snippets](https://github.com/avneesh0612/React-Next.js-snippets) adding vim support
 
 **Thoughts:** Didn't do much work but enjoyed the day :)
+
+### Day 24: 18th March, 2022, Friday
+
+**Today's Progress**: Made another pr to [React Next.js Snippets](https://github.com/avneesh0612/React-Next.js-snippets) adding small things to the react functional component for ts snippet. Also, quite a lot of progress on side project.
+
+**Thoughts:** Nice day
