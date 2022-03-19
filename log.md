@@ -162,3 +162,9 @@
 **Today's Progress**: Made another pr to [React Next.js Snippets](https://github.com/avneesh0612/React-Next.js-snippets) adding small things to the react functional component for ts snippet. Also, quite a lot of progress on side project.
 
 **Thoughts:** Nice day
+
+### Day 25: 19th March, 2022, Satruday
+
+**Today's Progress**: Watched a few Mac Studio reviews, little work on my side project, tried a refactor to the GitHub scraper on Slapcommands to accept multiple repos for 1 doc file but things didn't work out.
+
+**Thoughts:** Would have liked to make more progress on my side project
