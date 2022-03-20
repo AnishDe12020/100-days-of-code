@@ -168,3 +168,9 @@
 **Today's Progress**: Watched a few Mac Studio reviews, little work on my side project, tried a refactor to the GitHub scraper on Slapcommands to accept multiple repos for 1 doc file but things didn't work out.
 
 **Thoughts:** Would have liked to make more progress on my side project
+
+### Day 26: 20th March, 2022, Sunday
+
+**Today's Progress**: Added [Tiptap](https://tiptap.dev/) to my side project, worked a bit on Slapcommands.
+
+**Thoughts:** Did quite some work today
