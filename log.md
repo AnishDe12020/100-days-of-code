@@ -174,3 +174,9 @@
 **Today's Progress**: Added [Tiptap](https://tiptap.dev/) to my side project, worked a bit on Slapcommands.
 
 **Thoughts:** Did quite some work today
+
+### Day 27: 21st March, 2022, Monday
+
+**Today's Progress**: Add more stuff using [Tiptap](https://tiptap.dev/) to my side project, some work on Slapcommands, adding a new command.
+
+**Thoughts:** Had fun with Tiptap, now gotta focus on my project's core functionality
