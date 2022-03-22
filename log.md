@@ -180,3 +180,10 @@
 **Today's Progress**: Add more stuff using [Tiptap](https://tiptap.dev/) to my side project, some work on Slapcommands, adding a new command.
 
 **Thoughts:** Had fun with Tiptap, now gotta focus on my project's core functionality
+
+### Day 28: 22nd March, 2022, Tuesday
+
+**Today's Progress**: Little work on my side project.
+
+**Thoughts:** Wasn't able to do much today :(
+
