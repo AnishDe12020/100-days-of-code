@@ -187,3 +187,9 @@
 
 **Thoughts:** Wasn't able to do much today :(
 
+### Day 29: 23rd March, 2022, Wednesday
+
+**Today's Progress**: Published a [new blog post](https://blog.anishde.dev/5-chrome-keyboard-shortcuts-to-boost-your-productivity) and little progress on my side project.
+
+**Thoughts:** Just realised that there is quite a lot to finish up in my side project, better finish it up now than leave it for the last moment.
+
