@@ -193,3 +193,8 @@
 
 **Thoughts:** Just realised that there is quite a lot to finish up in my side project, better finish it up now than leave it for the last moment.
 
+### Day 30: 24th March, 2022, Thursday
+
+**Today's Progress**: Quite some progress on my side project, SPOILER ALERT, adding support to skip days and profile page left, along with small things here and there.
+
+**Thoughts:** Good day!
