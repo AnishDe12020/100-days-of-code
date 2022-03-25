@@ -198,3 +198,9 @@
 **Today's Progress**: Quite some progress on my side project, SPOILER ALERT, adding support to skip days and profile page left, along with small things here and there.
 
 **Thoughts:** Good day!
+
+### Day 31: 25th March, 2022, Friday
+
+**Today's Progress**: More progress on my side project but there is a huge bug in my way and a lot of work too! No new features implement today.
+
+**Thoughts:** Hoping for a better tomorrow.
