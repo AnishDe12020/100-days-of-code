@@ -204,3 +204,9 @@
 **Today's Progress**: More progress on my side project but there is a huge bug in my way and a lot of work too! No new features implement today.
 
 **Thoughts:** Hoping for a better tomorrow.
+
+### Day 32: 26th March, 2022, Saturday
+
+**Today's Progress**: Little progress on my side project, not much though :(
+
+**Thoughts:** Plan on doing a lot tomorrow
