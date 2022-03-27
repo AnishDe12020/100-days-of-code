@@ -210,3 +210,9 @@
 **Today's Progress**: Little progress on my side project, not much though :(
 
 **Thoughts:** Plan on doing a lot tomorrow
+
+### Day 33: 27th March, 2022, Sunday
+
+**Today's Progress**: Re-wrote the whole logic for handling my side project's main feature.
+
+**Thoughts:** Quite some progress today, plan on finish the User profile page in my side project tomorrow.
