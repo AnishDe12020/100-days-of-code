@@ -216,3 +216,9 @@
 **Today's Progress**: Re-wrote the whole logic for handling my side project's main feature.
 
 **Thoughts:** Quite some progress today, plan on finish the User profile page in my side project tomorrow.
+
+### Day 34: 28th March, 2022, Monday
+
+**Today's Progress**: Made the User profile page in my side project and small improvements.
+
+**Thoughts:** Should have started the landing page today but that should be finished by tomorrow. Also plan on deploying to prod tomorrow.
