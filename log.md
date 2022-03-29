@@ -222,3 +222,9 @@
 **Today's Progress**: Made the User profile page in my side project and small improvements.
 
 **Thoughts:** Should have started the landing page today but that should be finished by tomorrow. Also plan on deploying to prod tomorrow.
+
+### Day 35: 29th March, 2022, Tuesday
+
+**Today's Progress**: Added a new feature to my side project, almost done with the landing page, preparing to deploy to production. Also leaked the project on Twitter 👀
+
+**Thoughts:** Thought I would be able to do a little more but tomorrow is the day to deploy to prod. I hope everything goes well.....
