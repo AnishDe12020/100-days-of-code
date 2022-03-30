@@ -228,3 +228,9 @@
 **Today's Progress**: Added a new feature to my side project, almost done with the landing page, preparing to deploy to production. Also leaked the project on Twitter 👀
 
 **Thoughts:** Thought I would be able to do a little more but tomorrow is the day to deploy to prod. I hope everything goes well.....
+
+### Day 36: 30th March, 2022, Wednesday
+
+**Today's Progress**: Deployed XdoX (my side project) to production, it is ready to be used (small things like removing console logs and stuff left). Gotta write the blog post tomorrow
+
+**Thoughts:** Nervous.
